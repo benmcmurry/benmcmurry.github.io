@@ -1,18 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Me
+permalink: /aboutme/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+<p>Hi. I am the Curriculum Coordinator at <a href="http://www.byu.edu" target="_blank" rel="noopener noreferrer">Brigham Young University</a>'s&nbsp;<a href="http://www.elc.byu.edu" target="_blank" rel="noopener noreferrer">English Language Center</a>. I'm passionate about curriculum design, languages, and teacher training. Outside of my professional life I enjoy cycling, playing the piano, singing, and reading.</p>
