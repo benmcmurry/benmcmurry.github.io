@@ -31,7 +31,7 @@ facebook_username: bmcmurry
 linkedin_username: benjaminmcmurry
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
