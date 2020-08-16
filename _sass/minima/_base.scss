@@ -28,6 +28,23 @@ body {
   flex-direction: column;
 }
 
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #bbbbbb;
+    background-color: #181818;
+  }
+    a {
+      color:#79b8ff;
+      border-radius: 4px;
+  }
+  // a:hover {
+  //   color: rgb(57, 152, 230);
+  //     background-color: rgba(68, 123, 241, 0.3);
+  // }
+    
+  
+}
+
 
 
 /**
