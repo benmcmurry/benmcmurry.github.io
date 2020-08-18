@@ -5,6 +5,7 @@ date: 2018-08-23 22:40:17 -0600
 categories:
 - Teaching Tip
 tags: Teaching Tip
+excerpt: Something
 
 ---
 [Adapted from a post I made on another blog a few years ago.]
