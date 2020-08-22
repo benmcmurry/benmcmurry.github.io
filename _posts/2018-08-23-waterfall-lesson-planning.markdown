@@ -22,7 +22,7 @@ Life as a teacher is easiest for me when I first do all of the lesson planning p
 
 My image below probably needs some tweaking, but hopefully it represents my approach. The sand or dirt represents the time I spend lesson planning. If I spend a bunch of time at the beginning then my weekly and daily lesson planning time decreases.
 
-![](images/WaterfallLessonPlanning.png)
+![](/assets/images/WaterfallLessonPlanning.png)
 
 It might not work for everyone, but it's an approach that helps me.
 
