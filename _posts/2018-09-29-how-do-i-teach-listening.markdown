@@ -7,6 +7,7 @@ excerpt: This is what I am talking about.
 ---
 I gave a presentation at the annual I-TESOL conference yesterday. The topic was on how to teach listening. I've linked my presentation and handouts below. More to come later . . . 
 <!--more-->
-[How do I Teach Listening? - I-TESOL 2018](http://benmcmurry.com/wp-content/uploads/2018/09/How-do-I-Teach-Listening-I-TESOL-2018.pptx)
+[How do I Teach Listening? - I-TESOL 2018](uploads/2018/09/How-do-I-Teach-Listening-I-TESOL-2018.pptx)
 
-[Listening-Strategies](http://benmcmurry.com/wp-content/uploads/2018/09/Listening-Strategies.docx)
+[Listening-Strategies](uploads/2018/09/Listening-Strategies.docx)
+
