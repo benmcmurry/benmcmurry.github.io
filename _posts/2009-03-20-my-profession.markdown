@@ -6,7 +6,7 @@ tags: career esl job Language Teaching profession teaching
 
 ---
 I recently recieved and email from a former student. He is taking a class that is helping students explore various careers. One of the assignments is to interview someone in a profession you might be interested in. He asked me a few questions, and I thought it might make for an interesting post.
-
+<!--more-->
 **1\. What do you do?**  
 I teach English as a Second Language, develop ESL Curriculum, and train student teachers.
 

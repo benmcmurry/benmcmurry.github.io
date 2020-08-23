@@ -26,7 +26,7 @@ comments:
     for the objectives you are trying to meet.  It was a great lecture.
 ---
 The Linguistics and English Language Department at BYU is sponsoring a lecture series on second language literacy. Today, Dana Ferris was the speaker. It was great to here her speak. She is a very intelligent person with a clear perception of the field. She provided some very helpful insights about teaching. She listed 10 things she feels are the most important in developing literacy.  
-
+<!--more-->
 1. Extensive reading
 2. Vocabulary Development
 3. Text Selection

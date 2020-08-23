@@ -34,6 +34,7 @@ excerpt_separator: <!--more-->
 instagram_username: benmcmurry
 facebook_username: bmcmurry
 linkedin_username: benjaminmcmurry
+show_excerpts: true 
 
 # Build settings
 # theme: minima

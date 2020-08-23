@@ -5,6 +5,7 @@ date: '2009-04-27 23:21:00 -0600'
 tags: apple conference esl ilife imovie iphoto Language Teaching Technology
 ---
 I recently did a Poster Session at an Apple Education Conference: AcademiX. It was a lot of fun. I thought that I would share what what I did. For more information you can look at the [Poster Session PDF](http://benmcmurry.com/blog/wp-content/uploads/2009/04/Poster-Session-AcademiX.pdf).
+<!--more-->
 
 #### Overview
 

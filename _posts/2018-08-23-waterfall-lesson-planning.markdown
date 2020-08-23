@@ -5,16 +5,14 @@ date: 2018-08-23 22:40:17 -0600
 categories:
 - Teaching Tip
 tags: Teaching Tip
-excerpt: Something
-
 ---
 [Adapted from a post I made on another blog a few years ago.]
 
 I often have the opportunity to sit on a panel of experienced teachers [1].  Being on panels like this where novice teachers [2] ask questions about teaching is always an enlightening experience. It makes me reflect a lot on my past teaching experiences.
-
+<!--more-->
 I'm also occasionally lucky enough to have a brilliant description of a rather obvious process leave my mouth. One of the teachers asked the panel about lesson planning. I thought of my approach to lesson planning and opened my mouth. In that moment, I named my process the Waterfall Approach. It's a process I've used for a long time but never named.
 
-Waterfalls are beautiful sites. The fluid mechanics involved and the mark they leave on the terrain are incredible. A few years ago, I went to. You can't get to the falls by car—you take about a three mile hike to get to the bottom or last of the falls.[![](https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fe%2Fe8%2FCalf_Creek_falls.jpg&container=blogger&gadget=a&rewriteMime=image%2F*)](http://upload.wikimedia.org/wikipedia/commons/e/e8/Calf_Creek_falls.jpg)
+Waterfalls are beautiful sites. The fluid mechanics involved and the mark they leave on the terrain are incredible. A few years ago, I went to. You can't get to the falls by car—you take about a three mile hike to get to the bottom or last of the falls.[![](http://upload.wikimedia.org/wikipedia/commons/e/e8/Calf_Creek_falls.jpg)](http://upload.wikimedia.org/wikipedia/commons/e/e8/Calf_Creek_falls.jpg)
 
 I've never been to the top, but there is a small pool. When it is full, the overflowing [3] water creates a waterfall. This is the approach I like to take when lesson planning.
 

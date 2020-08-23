@@ -28,7 +28,7 @@ comments:
   content: This is awesome Ben!
 ---
 I've read all about standing desks. I like them. I'm never going to be a full-time stander though. I like to stand and work on days that I don't stand in front of a classroom all day. But, after 4 hours of teaching, I prefer to sit.
-
+<!--more-->
 I'd seen this great [Ikea hack](http://www.ikeahackers.net/) a while back about a cheap [standing desk](http://iamnotaprogrammer.com/Ikea-Standing-desk-for-22-dollars.html). We went to ikea this weekend, so I decided to give it a try. I switched out some of the ingredients mentioned in the [aforlinked article](http://iamnotaprogrammer.com/Ikea-Standing-desk-for-22-dollars.html). I used $3 brackets and a $1.99 shelf. I also went with the black-brown look.
 
 [Lack side table](http://www.ikea.com/us/en/catalog/products/20011413/#/20011408) - $9.99  
