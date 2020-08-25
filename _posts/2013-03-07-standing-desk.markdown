@@ -2,7 +2,7 @@
 layout: post
 title: Standing Desk
 date: 2013-03-07 05:52:00 -0700
-tags: desk ikea ikea hack Productivity standing standing desk uvu work
+tags: [desk, ikea, ikea, hack, productivity, standing, standing-desk, uvu, work]
 comments:
 - id: 27
   author: Ben McMurry

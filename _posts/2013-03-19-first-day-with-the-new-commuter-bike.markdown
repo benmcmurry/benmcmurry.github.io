@@ -2,7 +2,7 @@
 layout: post
 title: First Day with the New Commuter Bike
 date: 2013-03-19 01:14:00 -0600
-tags: bicycle bike commute commuter commuting cycling elevation profile gps Productivity tracks work
+tags: [bicycle, bike, commute, commuter, commuting, cycling, elevation, profile, gps, productivity, tracks, work]
 ---
 In case you were unaware, I sold my trike to buy a commuter bike . . . . and so far I love it! Today was the first day of commuting by bike. I have always wanted to be bike commuter, but the trike just wasn't doing it for me. It's so hard to store and hard to take places. Plus, it's an expensive piece of art that I couldn't just leave anywhere.
 <!--more-->

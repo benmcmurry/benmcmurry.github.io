@@ -2,7 +2,7 @@
 layout: post
 title: Using Siri in the Classroom
 date: 2013-01-23 07:12:00 -0700
-tags: apple CALL deaf dictation esl siri students voice recognition
+tags: [apple, CALL, deaf, dictation, esl, siri, students, voice, recognition]
 ---
 
 

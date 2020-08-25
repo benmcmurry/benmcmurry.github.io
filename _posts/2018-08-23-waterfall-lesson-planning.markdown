@@ -2,9 +2,8 @@
 layout: post
 title: Waterfall Lesson Planning
 date: 2018-08-23 22:40:17 -0600
-categories:
-- Teaching Tip
-tags: Teaching Tip
+categories: [teaching-tips]
+tags: [teaching, lesson-planning]
 ---
 [Adapted from a post I made on another blog a few years ago.]
 

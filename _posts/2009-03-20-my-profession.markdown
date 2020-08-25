@@ -2,7 +2,7 @@
 layout: post
 title: My Profession
 date: 2009-03-20 19:46:00 -0600
-tags: career esl job Language Teaching profession teaching
+tags: [career, esl, job, language, teaching, profession, teaching]
 
 ---
 I recently recieved and email from a former student. He is taking a class that is helping students explore various careers. One of the assignments is to interview someone in a profession you might be interested in. He asked me a few questions, and I thought it might make for an interesting post.

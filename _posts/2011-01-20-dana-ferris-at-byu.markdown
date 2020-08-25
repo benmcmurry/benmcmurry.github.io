@@ -2,7 +2,7 @@
 layout: post
 title: Dana Ferris at BYU
 date: 2011-01-20 16:09:00 -0700
-tags: esl Language Teaching literacy sla writing
+tags: [esl, Language, Teaching, literacy, sla, writing]
 comments:
 - id: 38
   author: Robb

@@ -2,7 +2,7 @@
 layout: post
 title: 'Personal Development: Computer Style'
 date: '2010-01-21 16:31:00 -0700'
-tags: computer development Productivity Technology
+tags: [computer, development, productivity, technology]
 
 ---
 Whoa! Two posts in one day! Hold on! As part of my own personal development, I'd like to blog more. It helps me share ideas.  

@@ -1,11 +1,11 @@
 ---
-title: About
-
-# The About page
-# v2.0
-# https://github.com/cotes2020/jekyll-theme-chirpy
-# © 2017-2019 Cotes Chung
-# MIT License
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+title: About Me
+layout: page
 ---
+### I'm a teacher, learner, linguist, evaluator, administrator, and instructional designer.
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+Currently, I'm working as the Program Coordinator for [Brigham Young University's](https://www.byu.edu) Intensive English Program-- the [English Language Center](https://elc.byu.edu) . I'm passionate about teacher training, curriculum and materials development, and program evaluation. I enjoy qualitative research and anything that helps me better understand language learning and teaching.Feel free to checkout my profile on [Google Scholar](https://scholar.google.com/citations?user=O8AfAxMAAAAJ&hl=en) or [Academia.edu.](https://byu.academia.edu/BenjaminMcMurry)
+
+Outside of my professional work, I love music, walking, cycling, and all things technology. My favorite role is that of husband and father.

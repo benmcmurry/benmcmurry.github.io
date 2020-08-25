@@ -2,7 +2,7 @@
 layout: post
 title: Word Processor Search
 date: 2010-02-27 20:23:00 -0700
-tags: comparison Productivity review Technology word processors
+tags: [comparison, productivity, review, technology, word-processors]
 
 ---
 I recently continued my ongoing search for the ultimate word processor for mac. Before I get to much further into this post, I must say that I am very content with Office 2007 on PCs. I think it is great. Since I've been using macs rather exclusively for the last 3 or 4 years, I have not been impressed by the word processors for mac. Here's what I have learned.  

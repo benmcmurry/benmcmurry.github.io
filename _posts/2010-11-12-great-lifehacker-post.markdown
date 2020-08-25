@@ -2,7 +2,7 @@
 layout: post
 title: Great Lifehacker Post
 date: 2010-11-12 23:08:00 -0700
-tags: Language Teaching Technology
+tags: [language, teaching, technology]
 comments:
 - id: 41
   author: Heidi

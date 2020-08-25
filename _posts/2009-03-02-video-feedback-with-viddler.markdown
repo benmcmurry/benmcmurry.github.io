@@ -3,7 +3,7 @@ layout: post
 title:  Video Feedback with Viddler
 date:   2009-03-02 21:50:00 -0700
 categories: 
-tags: assessment esl Language Teaching speaking teaching Technology video
+tags: [assessment, esl, language, teaching, speaking, teaching, technology, video]
 
 ---
 For the last three weeks I have been using [Viddler](http://viddler.com/) in my Listening & Speaking classes. We went to our wonderful computer lab and I helped them all set up accounts. We made a group for the class and did some practice recordings. I have had them do three assignments so far.  
