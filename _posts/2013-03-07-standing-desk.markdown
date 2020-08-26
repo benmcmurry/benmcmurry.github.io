@@ -2,6 +2,7 @@
 layout: post
 title: Standing Desk
 date: 2013-03-07 05:52:00 -0700
+categories: [Productivity, Workspace]
 tags: [desk, ikea, ikea, hack, productivity, standing, standing-desk, uvu, work]
 comments:
 - id: 27
@@ -37,6 +38,6 @@ I'd seen this great [Ikea hack](http://www.ikeahackers.net/) a while back about
 
 It was still under $20! Hopefully it will continue to work for me.
 
-![](http://benmcmurry.com/wp-content/uploads/2013/03/IMG_1032-1024x842.jpg)
+![](/uploads/2013/03/IMG_1032-1024x842.jpg)
 
-![](http://benmcmurry.com/wp-content/uploads/2013/03/IMG_1035-1024x919.jpg)
+![](/uploads/2013/03/IMG_1035-1024x919.jpg)

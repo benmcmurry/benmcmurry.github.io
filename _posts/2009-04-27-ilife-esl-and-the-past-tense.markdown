@@ -2,9 +2,10 @@
 layout: post
 title: iLife, ESL, and the Past Tense
 date: '2009-04-27 23:21:00 -0600'
+categories: [Teaching, Ideas]
 tags: [apple, conference, esl, ilife, imovie, iphoto, language, teaching, technology]
 ---
-I recently did a Poster Session at an Apple Education Conference: AcademiX. It was a lot of fun. I thought that I would share what what I did. For more information you can look at the [Poster Session PDF](http://benmcmurry.com/blog/wp-content/uploads/2009/04/Poster-Session-AcademiX.pdf).
+I recently did a Poster Session at an Apple Education Conference: AcademiX. It was a lot of fun. I thought that I would share what what I did. For more information you can look at the [Poster Session PDF](/uploads/2009/04/Poster-Session-AcademiX.pdf).
 <!--more-->
 
 #### Overview

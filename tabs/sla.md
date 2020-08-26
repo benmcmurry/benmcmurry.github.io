@@ -1,7 +1,7 @@
 ---
 layout: page
 title: A Langauge Learning Framework
-permalink: /languagelearning/
+
 ---
 As a linguist, language learner, and language teacher I am often asked questions similar to the following:
 

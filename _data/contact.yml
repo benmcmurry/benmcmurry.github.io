@@ -4,9 +4,21 @@
 #  © 2020 Cotes Chung
 #  MIT Licensed
 
+# -
+#   type: github
+#   icon: 'fab fa-github-alt'
 -
-  type: github
-  icon: 'fab fa-github-alt'
+  type: linkedin
+  icon: 'fab fa-linkedin'
+  url: 'https://www.linkedin.com/in/benmcmurry/'
+-
+  type: facebook
+  icon: 'fab fa-facebook'
+  url: 'https://www.facebook.com/bmcmurry'
+-
+  type: instagram
+  icon: 'fab fa-instagram'
+  url: 'https://www.instagram.com/benmcmurry/'
 -
   type: twitter
   icon: 'fab fa-twitter'

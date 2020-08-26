@@ -2,6 +2,7 @@
 layout: post
 title: 'Personal Development: Computer Style'
 date: '2010-01-21 16:31:00 -0700'
+categories: [Productivity]
 tags: [computer, development, productivity, technology]
 
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: Why do Interfaces always change?
 date: 2011-09-01 23:42:00 -0600
+categories: [Technology]
 tags: [apple, change, firefox, gmail, google, gui, interface, technology, ubuntu, ui]
 ---
 It's been a long time since I have written anything. I logged into the new blogger today with it's new interface. I upgraded to Lion with it's newer interface. Why do people always change the interface? Why are there so many themes, skins, or whatever you call them?

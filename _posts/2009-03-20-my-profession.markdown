@@ -1,25 +1,28 @@
 ---
-layout: post
+# layout: post
 title: My Profession
 date: 2009-03-20 19:46:00 -0600
+categories: [Teaching, About the Profession]
 tags: [career, esl, job, language, teaching, profession, teaching]
 
 ---
 I recently recieved and email from a former student. He is taking a class that is helping students explore various careers. One of the assignments is to interview someone in a profession you might be interested in. He asked me a few questions, and I thought it might make for an interesting post.
 <!--more-->
+
+
 **1\. What do you do?**  
 I teach English as a Second Language, develop ESL Curriculum, and train student teachers.
 
 **2\. How did you get interested in this type of work? Get started in this job?**  
 I have always been interested in language. I have always known that I wanted a job that would require langauge skills. When I came home from my mission, I took a Spanish class. The teacher was also and ESL teacher and told good stories. That got me interested. Later, I met my wife who was an ESL teacher. I observed her class, and I was hooked!
 
-3\. **How long have you been doing this kind of work?**  
+**3\. How long have you been doing this kind of work?**  
 5+ years
 
-**4\. What are 3-5 of the most common activities you do on a typical day?  
-**teach, grade, write curriculum, email, talk to students
+**4\. What are 3-5 of the most common activities you do on a typical day?**  
+teach, grade, write curriculum, email, talk to students
 
-5\. **What is your ultimate career goal?**  
+**5\. What is your ultimate career goal?**  
 I always want to teach. In the long run, I want an administrative position that works with language teaching and instructional technology.
 
 **6\. How did you prepare yourself? Any special schooling, classes, volunteer experience? How much did it cost?**  
