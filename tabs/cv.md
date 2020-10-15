@@ -197,7 +197,7 @@ May 2003 – December 2003
 
 [McGann, S., Evans, N. W., McMurry, B. L., & Sandholtz, K. (2020). Challenges in BCOM: Student and Faculty Perceptions on English as an Additional Language. Business and Professional Communication Quarterly. https://doi.org/10.1177/2329490620944880](https://journals.sagepub.com/eprint/KHHI7KHWVY7N22PMJ9GN/full#articleCitationDownloadContainer)
 
-James, J.C., Henrichsen, L., Tanner, M., McMurry, B.L. (2019) The Development of the Study Buddy Map, A Tool for L2 Conversation-Partner Programs. TESL Reporter
+[James, J.C., Henrichsen, L., Tanner, M., McMurry, B.L. (2019) The Development of the Study Buddy Map, A Tool for L2 Conversation-Partner Programs. TESL Reporter](https://esw.byuh.edu/00000174-7f8f-d4b8-aff5-ffffd7190000/article1-pdf)
 
 [Nix, M., Evans, N., Eckstein, G. McMurry, B.L. (2019). Designing and Developing an Online Self-Regulated Learning Course. International Journal of Designs for Learning](https://scholarworks.iu.edu/journals/index.php/ijdl/article/view/23671)
 
