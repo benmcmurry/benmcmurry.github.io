@@ -316,8 +316,23 @@ McMurry, B. L., & Tanner, M. (2004). _Training tutors for esl computer labs_. P
 ### MENTORING
 
 ##### MA Theses/Projects (committee member)
+Claudia Mencarelli (2021). Application of a Self-Regulation Framework in an ESL Classroom: Effects on IEP International Students
+
+Coca, Karla (2020). Praise in Written Feedback: How L2 Writers Perceive and Value Praise
+
+Sydney Sohler (2020). Developing Listening Comprehension in ESL Students at the Intermediate Level by Reading Transcripts While Listening: A Cognitive Load Perspective
+
+Ariana Avila (2020). Development of a Communicative-Focused English as a Second Language Curriculum for the Provo Missionary Training Center According to the ACTFL Proficiency Scale 
+
+Adam Pinkston (2020). An Exploration of Mental Contrasting and Social Networks of English Language Learners 
+
+Asena Cakmakci, (2020). Mental Contrasting with Implementation Intentions to Lower Test Anxiety
 
 Aislin Davis, (2019). A Comparison of Mobile and Computer Receptive Language ESL Tests
+
+Johanna Domingo, (2019). Perceptions of Malaysian English Teachers Regarding the Importation of Expatriate Native and Nonnative English-speaking Teachers
+
+Paula Cabrera, (2019). A TESOL MA Introductory Course: A Course for New TESOL MA Students at Brigham Young University
 
 Katherine Nobmann, (2018). Toward Meeting the Needs of Novice ESOL Teachers
 
@@ -336,6 +351,10 @@ Mariah Krauel, (2017). Designing and Developing an Online Self-Regulated Learnin
 Maria Summers, (2017). Investigating the Use of the ACTFL Can-Do Statements in a Self-Assessment in an Intensive English Program for Student Placement
 
 ### SERVICE
+
+##### K-12 Interest Section Chair
+
+October 2020 - October 2021
 
 ##### 2nd Vice President, 1st Vice President, President – ITESOL
 
